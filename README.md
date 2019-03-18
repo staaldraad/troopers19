@@ -14,7 +14,7 @@ In this talk I’ll be demonstrating attacks against the software used to retrie
 
 The slides are published here and include speaker notes: [Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRw9U55wxo6FIQBylswIPouHZanXkcy9t1tce_qMnyJa96M8mWkKlOR7josXA7C5ylP2jS7XWU_9dyO/pub?start=false&loop=false&delayms=3000&slide=id.g51f88efe39_0_6)
 
-Alternatively, there is a pdf copy in the repo: []()
+Alternatively, there is a pdf copy in the repo: [https://github.com/staaldraad/troopers19/blob/master/Troopers_2019_slides.pdf](https://github.com/staaldraad/troopers19/blob/master/Troopers_2019_slides.pdf)
 
 ## Demos (videos)
 
