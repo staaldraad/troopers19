@@ -24,5 +24,6 @@ Alternatively, there is a pdf copy in the repo: [Troopers_2019_slides.pdf](https
 
 ## Blog posts
 
-Exploiting CVE-2018-11235: [https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/](https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/)
-Go get CVE-2018-16873: _Not available yet_
+* Exploiting CVE-2018-11235: [https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/](https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/)
+* Go get CVE-2018-16873: _Not available yet_
+
